@@ -12,7 +12,7 @@
 
 🚀Acesse o projeto web: https://guedes-hub.github.io/Sorteador-numeros-js/
 <br>
-🗂️Arquivos utilizados: https://github.com/Guedes-hub/Sorteador-numeros-js/tree/main/assets
+🗂️Arquivos utilizados: https://github.com/Guedes-hub/Sorteador-numeros-js.git
 <br>
 <br>
 <br>
