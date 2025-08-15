@@ -12,6 +12,8 @@
 
 🚀Acesse o projeto web: https://guedes-hub.github.io/Sorteador-numeros-js/
 <br>
+🗂️Arquivos utilizados: https://github.com/Guedes-hub/Sorteador-numeros-js/tree/main/assets
+<br>
 <br>
 <br>
 🖥️Versão Desktop (número menor para maior):
